@@ -33,9 +33,9 @@ struct Chapter2View: View {
                 "enter a or b to continue"
             case .dontpay:
                 "enter a or b to continue"
-
+                
             case .end:
-                "press enter"
+                "Restart"
             }
         }
         // TODO: make option2 String?
@@ -50,9 +50,9 @@ struct Chapter2View: View {
             case .pay:
                 "continue"
             case .dontpay:
-                "enter a or b to continue"
+                "Continue"
             case .end:
-                "press enter"
+                "Restart"
             }
         }
         var nextScenarioForOption1: Scenario? {
@@ -87,7 +87,7 @@ struct Chapter2View: View {
             case .dontpay:
                 return .end
             case .end:
-                return .inside
+                return .intro
             }
             
            
@@ -109,6 +109,7 @@ struct Chapter2View: View {
         }
     }
     @State var currentScenario = Scenario.intro
+
     var body: some View {
         VStack{ Text("Chapter 2")
             Image(currentScenario.images)
@@ -129,7 +130,7 @@ struct Chapter2View: View {
                 //    currentScenario = currentScenario.nextScenarioForOption2
                 }
             }
-        }
+        }.padding()
     }
 }
 
