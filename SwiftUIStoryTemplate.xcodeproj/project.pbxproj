@@ -14,8 +14,17 @@
 		5DE6F67E2AFAE3DF004ABB4F /* Chapter1View.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5DE6F67D2AFAE3DF004ABB4F /* Chapter1View.swift */; };
 		5DE6F6802AFAE3E6004ABB4F /* Chapter2View.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5DE6F67F2AFAE3E6004ABB4F /* Chapter2View.swift */; };
 		5DE6F6822AFAE3EA004ABB4F /* Chapter3View.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5DE6F6812AFAE3EA004ABB4F /* Chapter3View.swift */; };
-		5DE6F6842AFAE3EF004ABB4F /* Chapter4View.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5DE6F6832AFAE3EF004ABB4F /* Chapter4View.swift */; };
 		5DE6F6862AFAE3F3004ABB4F /* Chapter5View.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5DE6F6852AFAE3F3004ABB4F /* Chapter5View.swift */; };
+		6B4050EA2B06C2DA00664B92 /* Page 6.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6B4050E02B06C2D900664B92 /* Page 6.swift */; };
+		6B4050EB2B06C2DA00664B92 /* Page 8.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6B4050E12B06C2D900664B92 /* Page 8.swift */; };
+		6B4050EC2B06C2DA00664B92 /* Page 2.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6B4050E22B06C2D900664B92 /* Page 2.swift */; };
+		6B4050ED2B06C2DA00664B92 /* Page 9.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6B4050E32B06C2D900664B92 /* Page 9.swift */; };
+		6B4050EE2B06C2DA00664B92 /* Page 4.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6B4050E42B06C2D900664B92 /* Page 4.swift */; };
+		6B4050EF2B06C2DA00664B92 /* Page 5.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6B4050E52B06C2DA00664B92 /* Page 5.swift */; };
+		6B4050F02B06C2DA00664B92 /* Page 7.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6B4050E62B06C2DA00664B92 /* Page 7.swift */; };
+		6B4050F12B06C2DA00664B92 /* Page 3.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6B4050E72B06C2DA00664B92 /* Page 3.swift */; };
+		6B4050F22B06C2DA00664B92 /* Page 1.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6B4050E82B06C2DA00664B92 /* Page 1.swift */; };
+		6B4050F32B06C2DA00664B92 /* Chapter 4.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6B4050E92B06C2DA00664B92 /* Chapter 4.swift */; };
 		C9202E472B06AF3B007293B8 /* part2.swift in Sources */ = {isa = PBXBuildFile; fileRef = C9202E462B06AF3B007293B8 /* part2.swift */; };
 		C9202E492B06AF54007293B8 /* part3.swift in Sources */ = {isa = PBXBuildFile; fileRef = C9202E482B06AF54007293B8 /* part3.swift */; };
 		C9202E4B2B06AF64007293B8 /* part4.swift in Sources */ = {isa = PBXBuildFile; fileRef = C9202E4A2B06AF64007293B8 /* part4.swift */; };
@@ -33,8 +42,17 @@
 		5DE6F67D2AFAE3DF004ABB4F /* Chapter1View.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Chapter1View.swift; sourceTree = "<group>"; };
 		5DE6F67F2AFAE3E6004ABB4F /* Chapter2View.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Chapter2View.swift; sourceTree = "<group>"; };
 		5DE6F6812AFAE3EA004ABB4F /* Chapter3View.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Chapter3View.swift; sourceTree = "<group>"; };
-		5DE6F6832AFAE3EF004ABB4F /* Chapter4View.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Chapter4View.swift; sourceTree = "<group>"; };
 		5DE6F6852AFAE3F3004ABB4F /* Chapter5View.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Chapter5View.swift; sourceTree = "<group>"; };
+		6B4050E02B06C2D900664B92 /* Page 6.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "Page 6.swift"; sourceTree = "<group>"; };
+		6B4050E12B06C2D900664B92 /* Page 8.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "Page 8.swift"; sourceTree = "<group>"; };
+		6B4050E22B06C2D900664B92 /* Page 2.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "Page 2.swift"; sourceTree = "<group>"; };
+		6B4050E32B06C2D900664B92 /* Page 9.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "Page 9.swift"; sourceTree = "<group>"; };
+		6B4050E42B06C2D900664B92 /* Page 4.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "Page 4.swift"; sourceTree = "<group>"; };
+		6B4050E52B06C2DA00664B92 /* Page 5.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "Page 5.swift"; sourceTree = "<group>"; };
+		6B4050E62B06C2DA00664B92 /* Page 7.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "Page 7.swift"; sourceTree = "<group>"; };
+		6B4050E72B06C2DA00664B92 /* Page 3.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "Page 3.swift"; sourceTree = "<group>"; };
+		6B4050E82B06C2DA00664B92 /* Page 1.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "Page 1.swift"; sourceTree = "<group>"; };
+		6B4050E92B06C2DA00664B92 /* Chapter 4.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "Chapter 4.swift"; sourceTree = "<group>"; };
 		C9202E462B06AF3B007293B8 /* part2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = part2.swift; sourceTree = "<group>"; };
 		C9202E482B06AF54007293B8 /* part3.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = part3.swift; sourceTree = "<group>"; };
 		C9202E4A2B06AF64007293B8 /* part4.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = part4.swift; sourceTree = "<group>"; };
@@ -78,7 +96,7 @@
 				5DE6F6872AFAE47A004ABB4F /* Chapter1 */,
 				5DE6F6882AFAE482004ABB4F /* Chapter2 */,
 				5DE6F6892AFAE48E004ABB4F /* Chapter3 */,
-				5DE6F68A2AFAE492004ABB4F /* Chapter4 */,
+				6B4050F42B06C2EB00664B92 /* Chapter4 */,
 				5DE6F68B2AFAE49B004ABB4F /* Chapter5 */,
 				5DE6F6732AFADF08004ABB4F /* Assets.xcassets */,
 				5DE6F6752AFADF08004ABB4F /* Preview Content */,
@@ -124,20 +142,29 @@
 			path = Chapter3;
 			sourceTree = "<group>";
 		};
-		5DE6F68A2AFAE492004ABB4F /* Chapter4 */ = {
-			isa = PBXGroup;
-			children = (
-				5DE6F6832AFAE3EF004ABB4F /* Chapter4View.swift */,
-			);
-			path = Chapter4;
-			sourceTree = "<group>";
-		};
 		5DE6F68B2AFAE49B004ABB4F /* Chapter5 */ = {
 			isa = PBXGroup;
 			children = (
 				5DE6F6852AFAE3F3004ABB4F /* Chapter5View.swift */,
 			);
 			path = Chapter5;
+			sourceTree = "<group>";
+		};
+		6B4050F42B06C2EB00664B92 /* Chapter4 */ = {
+			isa = PBXGroup;
+			children = (
+				6B4050E92B06C2DA00664B92 /* Chapter 4.swift */,
+				6B4050E82B06C2DA00664B92 /* Page 1.swift */,
+				6B4050E22B06C2D900664B92 /* Page 2.swift */,
+				6B4050E72B06C2DA00664B92 /* Page 3.swift */,
+				6B4050E42B06C2D900664B92 /* Page 4.swift */,
+				6B4050E52B06C2DA00664B92 /* Page 5.swift */,
+				6B4050E02B06C2D900664B92 /* Page 6.swift */,
+				6B4050E62B06C2DA00664B92 /* Page 7.swift */,
+				6B4050E12B06C2D900664B92 /* Page 8.swift */,
+				6B4050E32B06C2D900664B92 /* Page 9.swift */,
+			);
+			path = Chapter4;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -210,19 +237,28 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				6B4050EC2B06C2DA00664B92 /* Page 2.swift in Sources */,
+				6B4050EE2B06C2DA00664B92 /* Page 4.swift in Sources */,
 				C9202E492B06AF54007293B8 /* part3.swift in Sources */,
 				5DE6F6822AFAE3EA004ABB4F /* Chapter3View.swift in Sources */,
-				5DE6F6842AFAE3EF004ABB4F /* Chapter4View.swift in Sources */,
 				C9202E4F2B06AF92007293B8 /* part6.swift in Sources */,
+				6B4050F02B06C2DA00664B92 /* Page 7.swift in Sources */,
 				C9202E4B2B06AF64007293B8 /* part4.swift in Sources */,
 				5DE6F6722AFADF05004ABB4F /* ContentView.swift in Sources */,
 				C9202E512B06AFA5007293B8 /* part7.swift in Sources */,
 				5DE6F6802AFAE3E6004ABB4F /* Chapter2View.swift in Sources */,
 				5DE6F6862AFAE3F3004ABB4F /* Chapter5View.swift in Sources */,
 				5DE6F67E2AFAE3DF004ABB4F /* Chapter1View.swift in Sources */,
+				6B4050F22B06C2DA00664B92 /* Page 1.swift in Sources */,
 				5DE6F6702AFADF05004ABB4F /* SwiftUIStoryTemplateApp.swift in Sources */,
 				C9202E472B06AF3B007293B8 /* part2.swift in Sources */,
 				C9202E4D2B06AF7F007293B8 /* part5.swift in Sources */,
+				6B4050F12B06C2DA00664B92 /* Page 3.swift in Sources */,
+				6B4050F32B06C2DA00664B92 /* Chapter 4.swift in Sources */,
+				6B4050ED2B06C2DA00664B92 /* Page 9.swift in Sources */,
+				6B4050EF2B06C2DA00664B92 /* Page 5.swift in Sources */,
+				6B4050EB2B06C2DA00664B92 /* Page 8.swift in Sources */,
+				6B4050EA2B06C2DA00664B92 /* Page 6.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
