@@ -30,10 +30,11 @@ struct Part7: View {
                 scale = 1.2
                                 }
                     Section{
-                        Text(" As all of them lay on the grass with broken ribs and burn injuries then look and see the line is moving with the doors still open and so they get up and run towards the train and just barely make it on and as they collapse on the floor they burst out laughing.")
-                            .offset(x:1 ,y:-30)
+                        Text(" As all of them lay on the grass with broken ribs and burn injuries then look and see the line is moving with the doors still open and so they get up and run towards the train and just barely make it on and as they collapse on the floor.")
+                            .offset(x:0 ,y:-50)
                             .foregroundColor(.white)
                             .bold()
+                            .shadow(radius: 10)
                         
                     }
                     

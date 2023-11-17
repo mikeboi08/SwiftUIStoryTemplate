@@ -35,6 +35,7 @@ struct part2: View {
                             .offset(x:5 ,y:0)
                             .foregroundColor(.white)
                             .bold()
+                            .shadow(radius:100)
                         
                     }
                     
